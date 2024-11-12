@@ -1,5 +1,5 @@
 <h3 align="center">"Coding My Way from Basics to Brilliance"</h3>
-<img align="righ" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedizhan007&label=Profile%20views&color=0e75b6&style=flat" alt="syedizhan007" /> </p>
 
 - 🔭 I’m currently working on ["Coding My Way from Basics to Brilliance"](https://github.com/syedizhan007/Room-Expense-Splitter.git)
